@@ -3,7 +3,7 @@
 ### Soy Programador Jr.
 
 ### - 🔭 I’m currently working for my self.
-### - 🌱 I’m currently learning enything.
+### - 🌱 I’m currently learning anything.
 ### - 😄 Pronouns: Monty 
 ### - ⚡ Fun fact: I sooo like the videogames and tghe tecnologi on general.
 
