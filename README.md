@@ -1,6 +1,7 @@
-### Holaa que tal :D 👋
-### Me llamo Luis Montero y Soy desarrollador web y desarrollador de software.
-### Soy Programador Jr.
+### Hi!!, how are? :D 👋
+### My name is Luis Montero and I am a web developer and software developer.
+### I'm a Jr. Programmer.
+
 
 ### - 🔭 I’m currently working for my self.
 ### - 🌱 I’m currently learning anything.
