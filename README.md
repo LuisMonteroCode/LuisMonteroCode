@@ -2,10 +2,10 @@
 ### Me llamo Luis Montero y Soy desarrollador web y desarrollador de software.
 ### Soy Programador Jr.
 
-- 🔭 I’m currently working for my self.
-- 🌱 I’m currently learning enything.
-- 😄 Pronouns: Monty 
-- ⚡ Fun fact: I sooo like the videogames and tghe tecnologi on general.
+### - 🔭 I’m currently working for my self.
+### - 🌱 I’m currently learning enything.
+### - 😄 Pronouns: Monty 
+### - ⚡ Fun fact: I sooo like the videogames and tghe tecnologi on general.
 
 [![LuisMonteroCode GitHub stats](https://github-readme-stats.vercel.app/api?username=LuisMonteroCode&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
