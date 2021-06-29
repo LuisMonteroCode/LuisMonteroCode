@@ -9,7 +9,7 @@
 
 [![LuisMonteroCode GitHub stats](https://github-readme-stats.vercel.app/api?username=LuisMonteroCode&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
-[![ThanshunyWolf Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisMonteroCode&layout=compact&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+[![LuisMonteroCode Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisMonteroCode&layout=compact&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **LuisMonteroCode/LuisMonteroCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
